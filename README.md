@@ -1,3 +1,4 @@
+ ![image alt](https://github.com/jaribjorgemoreiraaguino-dot/TallerFigurasPOOJJMA/blob/89881bc06b8967956ecbf902fc7537798aaafcc2/f9906a51-0f08-41f1-ac95-2eeb4a592062.jpeg)
 Taller Figuras POO
 
 Implementación del taller: clases para figuras geométricas en Python.
